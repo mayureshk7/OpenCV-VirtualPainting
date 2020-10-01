@@ -4,4 +4,10 @@ Special Thanks to 'Murtaza's Workshop - Robotics and AI' for the amazing tutoria
 How to run:
 python3 virtualDraw.py
 
+# Necessary Packages 
+
+pip install opencv-python
+
+pip install numpy
+
 Note: Make sure to install necessary packages.
